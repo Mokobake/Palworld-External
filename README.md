@@ -4,4 +4,5 @@
 殆どこれが更新される事は無いでしょう。
 そして、5/12で試した時点ではOtomoPalの機能が機能しません。
 プロジェクトがベータリリースのままこうなってしまったのは悲しいです。
+
 [UnknownCheats Link](https://www.unknowncheats.me/forum/palworld/620558-palworld-external-cheat.html)
